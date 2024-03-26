@@ -24,6 +24,15 @@ Open the project in your preferred IDE.
 Make sure you have Flutter installed and set up properly.
 Run the app on an emulator or physical device using the flutter run command.
 Explore the app's features such as movie selection, searching, and watching trailers.
+
+seat Number Warning System: When the user approaches their assigned seat, the app will provide a vibration alert to notify them. We'll create a new screen where users can enter their seat number, and when they approach their seat, the phone will vibrate.
+•	I've improved the title of the SeatNumberScreen to make it clearer what the screen is for.
+•	I've added an OutlineInputBorder to the TextField for better visual clarity.
+•	I've modified the alert dialog message to provide more descriptive guidance to the user.
+•	I've updated the button text to "Start Seat Alert" for clarity.
+These improvements enhance the user experience and make the seat number warning system feature more intuitive to use.
+
+
 Contribution:
 Contributions to the project are welcome! If you have any ideas for improvements or new features, feel free to fork the repository, make your changes, and submit a pull request.
 
