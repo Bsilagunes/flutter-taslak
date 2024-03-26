@@ -1,7 +1,7 @@
 sample sketch: 
 
 
-In-Flight Entertainment App
+In-Flight App
 Overview:
 The In-Flight Entertainment App is a mobile application developed using the Flutter framework. It provides passengers with a selection of movies to watch during their flight, along with features such as searching, favoriting movies, and watching trailers.
 
