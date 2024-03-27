@@ -73,6 +73,47 @@ These improvements enhance the user experience and make the seat number warning 
 
 Overall, the suitcase system combines cutting-edge technology with user-centric design to streamline the baggage management process and enhance the overall travel experience for passengers. By providing real-time notifications, damage detection capabilities, and user-friendly interfaces, the system aims to empower passengers with greater control and peace of mind when it comes to managing their baggage.
 
+1.	Flight Information and Task Management:
+   
+•	The app provides flight attendants and pilots with easy access to crucial flight information and task management capabilities.
+•	It includes features for managing flight plans, passenger lists, special service 
+•	requests, and other operational data.
+
+2.	Passenger Services and Communication:
+•	It facilitates more effective communication between flight attendants and passengers.
+•	The app offers a communication channel for receiving passenger requests and feedback, as well as managing special service requests.
+
+4.	Emergency Management and Training:
+•	It equips flight attendants and pilots with essential training and information for handling emergencies.
+•	This includes emergency procedures, first aid instructions, and safety protocols to ensure swift and effective response during crisis situations.
+
+6.	Cabin Equipment and Inventory Tracking:
+•	The app features an inventory management system to streamline tracking of cabin equipment and supplies.
+•	Flight attendants can record, track, and request replenishment or repair of cabin equipment and materials as needed.
+
+8.	Passenger Monitoring and Comfort Management:
+•	It enables flight attendants to monitor passenger behavior and comfort levels.
+•	This includes tracking passenger movements, seat preferences, and special needs, allowing for personalized service delivery.
+
+1.	Food and Beverage Ordering:
+•	Passengers can conveniently browse and order from a selection of food and beverage items available onboard using the FMS mobile app. The app provides a user-friendly interface for placing orders, making inflight dining more convenient and enjoyable.
+
+2.	Flight Sharing and Social Media Integration:
+•	FMS allows passengers to share their flight details on social media platforms directly from the mobile app. This feature enhances social connectivity and enables passengers to keep friends and family informed about their travel plans.
+
+3.	Weather Forecast and Travel Guide:
+•	Passengers can access real-time weather forecasts and travel guides for their destination through the FMS mobile app. This feature provides valuable information about local weather conditions, attractions, and activities, enhancing the overall travel experience.
+
+
+Benefits:
+•	Efficiency: FMS automates various aspects of airline operations, reducing manual effort and minimizing errors.
+•	Convenience: Passengers can access essential flight information and services conveniently through the mobile app, enhancing their travel experience.
+•	Personalization: FMS enables airlines to deliver personalized services to passengers based on their preferences and requirements.
+•	Enhanced Communication: FMS facilitates seamless communication between airlines, flight crew, and passengers, ensuring timely updates and notifications throughout the travel journey.
+In summary, Flight Management System is a comprehensive solution that revolutionizes airline operations and passenger experience, offering a range of features designed to optimize efficiency, convenience, and satisfaction in air travel.
+
+
+
 
 
 
