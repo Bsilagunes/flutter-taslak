@@ -112,6 +112,26 @@ Benefits:
 •	Enhanced Communication: FMS facilitates seamless communication between airlines, flight crew, and passengers, ensuring timely updates and notifications throughout the travel journey.
 In summary, Flight Management System is a comprehensive solution that revolutionizes airline operations and passenger experience, offering a range of features designed to optimize efficiency, convenience, and satisfaction in air travel.
 
+Pilot-Specific Fingerprint Authentication System:
+
+This feature is one of the integrated security measures in the aircraft application. It provides pilots with access to the application using fingerprint authentication.
+This ensures that only authorized pilots can access the application and view flight data, routes, and other sensitive information. The fingerprint system verifies the identity of pilots and allows them to securely log into the application.
+
+Emergency Alert System:
+This feature provides emergency notifications in unexpected situations and during pilot changes.
+For example, in case of a pilot experiencing sudden illness or requiring replacement due to an emergency, the application quickly notifies other pilots and relevant individuals. 
+This enables the aircraft crew to quickly organize and ensure flight safety.
+
+
+Explanation:
+
+•	The code defines two classes: FlightRoute and Pilot, representing flight routes and pilots respectively.
+•	FlightRoute class has two private member variables departureAirport and arrivalAirport to store the departure and arrival airports.
+•	Pilot class has a private member variable name to store the pilot's name and a vector assignedRoutes to store the flight routes assigned to the pilot.
+•	The FlightRoute class constructor initializes the departure and arrival airports.
+•	Getter methods are provided in both classes to retrieve the departure and arrival airports for FlightRoute and the pilot's name and assigned routes for Pilot.
+•	In the main() function, a Pilot object named pilot is created with the name "Captain John", and two FlightRoute objects route1 and route2 are created with departure and arrival airport codes. These routes are then added to the pilot object using the addAssignedRoute() method.
+•	Finally, the pilot's information and assigned routes are displayed using cout statements.
 
 
 
