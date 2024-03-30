@@ -153,6 +153,23 @@ Usage:
 •	The system navigates the user to the designated gate, providing information about nearby tax-free shopping areas if applicable.
 This Airport Navigation System aims to enhance the passenger experience by providing efficient navigation within the airport premises, guiding passengers to their gates while also informing them about available amenities such as tax-free shopping areas.
 
+1.	Airport Map and Information: This feature includes layout information for both domestic and international terminals, as well as special information points. Passengers can easily find their locations within the airport and access specific service points.
+   
+2.	Gate Navigation Assistance: Enables passengers to be directed to their intended arrival gates. Passengers receive information about the most suitable routes to their arrival gates, ensuring a swift and seamless journey.
+   
+3.	Duty-Free Shopping Areas: Indicates the presence of duty-free shopping areas at the airport and provides information for passengers to take advantage of this opportunity.
+Passengers can plan their shopping experiences by learning about duty-free shopping facilities.
+
+4.	Domestic and International Flight Information: Provides information on whether the passengers' destinations are for domestic or international flights, offering necessary guidance. This feature assists passengers in determining the appropriate terminals or gates for their flights.
+   
+5.	Easy Passport Control Points: Specifies the availability of easy passport control points at the airport. Passengers can utilize these points for expedited passage through passport control, facilitating a smoother travel experience.
+
+Airport Emergency Assistance Call Button Feature
+
+-Passengers can press this button to make a call for assistance in cases of theft, lost items, or stolen belongings, alerting the police or airport personnel. Additionally, the program includes a control mechanism to prevent multiple calls and ensures that the emergency assistance call is made only once.
+
+
+
 
 
 
