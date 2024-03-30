@@ -133,6 +133,28 @@ Explanation:
 •	In the main() function, a Pilot object named pilot is created with the name "Captain John", and two FlightRoute objects route1 and route2 are created with departure and arrival airport codes. These routes are then added to the pilot object using the addAssignedRoute() method.
 •	Finally, the pilot's information and assigned routes are displayed using cout statements.
 
+Airport Navigation System
+
+1.	Airport Layout Representation:
+•	The system represents the layout of the airport, including gates, security checkpoints, and tax-free shopping areas.
+
+2.	Destination and Gate Mapping:
+•	Passengers input their destination and gate information, and the system guides them to the corresponding gate through the appropriate security checkpoint.
+
+3.	Tax-Free Shopping Information:
+•	If the gate is located near a tax-free shopping area, the system informs the passenger about the availability of tax-free shopping and provides additional information about the offerings.
+
+5.	Error Handling:
+•	The system checks for valid destination and gate inputs, and it provides appropriate error messages if invalid inputs are detected.
+
+Usage:
+
+•	Users input their destination and gate information.
+•	The system navigates the user to the designated gate, providing information about nearby tax-free shopping areas if applicable.
+This Airport Navigation System aims to enhance the passenger experience by providing efficient navigation within the airport premises, guiding passengers to their gates while also informing them about available amenities such as tax-free shopping areas.
+
+
+
 
 
 
