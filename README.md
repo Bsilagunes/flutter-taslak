@@ -169,6 +169,14 @@ Airport Emergency Assistance Call Button Feature
 -Passengers can press this button to make a call for assistance in cases of theft, lost items, or stolen belongings, alerting the police or airport personnel. Additionally, the program includes a control mechanism to prevent multiple calls and ensures that the emergency assistance call is made only once.
 
 
+1.	CabinCrew Class: Represents the cabin crew members on the aircraft. Each cabin crew member is instantiated with a name and provides instructions to passengers during emergencies and assists them during evacuation processes.
+   
+2.	Pilot Class: Represents the pilot on the aircraft. The pilot provides emergency guidance to both the cabin crew and passengers, and initiates emergency landing procedures when necessary.
+   
+3.	EmergencyManagementSystem Class: Constructs the emergency management system for in-flight emergencies. It defines the roles of cabin crew members and the pilot within the system. This class provides a function to initiate emergency procedures.
+   
+4.	initiateEmergencyProcedures() Function: Simulates the initiation of emergency procedures. During execution, cabin crew members and the pilot provide instructions to passengers and initiate the evacuation process.
+
 
 
 
@@ -177,7 +185,7 @@ Airport Emergency Assistance Call Button Feature
 
 
 Contribution:
-Contributions to the project are welcome! If you have any ideas for improvements or new features, feel free to fork the repository, make your changes, and submit a pull request.
+Contributions to the project are welcome! If you have any ideas for improvements or new features, feel free to fork the repository, make your changes, and submit a pull request!
 
 License:
 This project is licensed under the MIT License.
