@@ -178,7 +178,15 @@ Airport Emergency Assistance Call Button Feature
 4.	initiateEmergencyProcedures() Function: Simulates the initiation of emergency procedures. During execution, cabin crew members and the pilot provide instructions to passengers and initiate the evacuation process.
 
 
+Air Traffic Control Tower Class: Represents the air traffic control tower. It provides a function to communicate with the tower, enabling pilots to send messages.
 
+Pilot Class: Represents the pilots on the aircraft. Each pilot has a name and can enable/disable the radar system, perform manual radar scans, and communicate with the air traffic control tower.
+
+Aircraft Class: Represents the aircraft. It contains a vector of pilots and an instance of the air traffic control tower. Pilots can interact with the radar system and communicate with the tower through the aircraft.
+
+Main Function: Instantiates an aircraft with pilot names, demonstrates enabling/disabling the radar system, performing manual radar scans, and communicating with the air traffic control tower.
+
+These features collectively simulate a radar system and communication with an air traffic control tower in an aircraft environment, providing essential functionalities for flight operations and safety.
 
 
 
