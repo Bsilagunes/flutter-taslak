@@ -1,0 +1,40 @@
+ Güçlü ve Tip Güvenli
+Dart, tip güvenli bir dil olarak tasarlanmıştır. Bu, değişkenlerin ve fonksiyonların tipini belirtmenin ve belirli tiplere sahip verilerin güvenle işlenmesini sağlar.
+
+2. Hızlı ve Verimli
+Dart, Just-In-Time (JIT) ve Ahead-Of-Time (AOT) derleme seçenekleriyle hızlı bir performans sunar. Bu sayede hem geliştirme sürecinde etkili bir şekilde çalışabilir hem de son kullanıcılar için optimize edilmiş uygulamalar oluşturabilirsiniz.
+
+3. Nesne Yönelimli ve Fonksiyonel
+Dart, hem nesne yönelimli hem de fonksiyonel programlama paradigmasını destekler. Bu sayede farklı programlama stillerine uygun olarak esneklik sağlar.
+
+4. Zengin Standart Kütüphane
+Dart'ın zengin standart kütüphanesi, geniş bir yelpazede kullanışlı işlevler sunar. Bu kütüphaneler, dosya işleme, ağ iletişimi, veri işleme ve daha birçok alanda geliştirme sürecini hızlandırır.
+
+Dart Dilinde Kullanım Örnekleri
+
+Temel Syntax
+
+void main() {
+  String name = 'John';
+  int age = 30;
+  
+  print('Name: $name, Age: $age');
+}
+
+Fonksiyonlar
+
+int sum(int a, int b) {
+  return a + b;
+}
+
+void main() {
+  print('Sum: ${sum(5, 3)}');
+}
+
+Bu dökümantasyon, Dart programlama dilinin temel özelliklerini ve kullanımını açıklamaktadır. Dart'ı kullanarak hem web hem de mobil uygulamalar geliştirebilir ve hızlı, güvenli ve etkili bir şekilde çalışabilirsiniz.
+
+
+
+
+
+
